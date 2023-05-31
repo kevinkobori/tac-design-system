@@ -37,3 +37,12 @@ const like = 'sample';
 TODO: Tell users more about the package: where to find more information, how to
 contribute to the package, how to file issues, what response they can expect
 from the package authors, and more.
+
+## References
+
+https://medium.com/@andersonbarbozadasilva/atomic-design-na-constru%C3%A7%C3%A3o-do-design-system-49d401a39a1fA
+https://pub.dev/packages/mix
+https://pub.dev/packages/flutter_layout_grid
+https://pub.dev/packages/responsive_table
+https://pub.dev/packages/responsive_framework
+https://pub.dev/packages/responsive_sizer
